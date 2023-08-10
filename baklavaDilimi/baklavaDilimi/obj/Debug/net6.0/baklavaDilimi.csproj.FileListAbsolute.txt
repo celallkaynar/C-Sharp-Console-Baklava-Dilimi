@@ -1,0 +1,15 @@
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\bin\Debug\net6.0\baklavaDilimi.exe
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\bin\Debug\net6.0\baklavaDilimi.deps.json
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\bin\Debug\net6.0\baklavaDilimi.runtimeconfig.json
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\bin\Debug\net6.0\baklavaDilimi.dll
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\bin\Debug\net6.0\baklavaDilimi.pdb
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\baklavaDilimi.csproj.AssemblyReference.cache
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\baklavaDilimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\baklavaDilimi.AssemblyInfoInputs.cache
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\baklavaDilimi.AssemblyInfo.cs
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\baklavaDilimi.csproj.CoreCompileInputs.cache
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\baklavaDilimi.dll
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\refint\baklavaDilimi.dll
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\baklavaDilimi.pdb
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\baklavaDilimi.genruntimeconfig.cache
+D:\Projeler Visual Studio\console\alistırma\baklavaDilimi\baklavaDilimi\obj\Debug\net6.0\ref\baklavaDilimi.dll
